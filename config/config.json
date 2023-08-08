@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1401",
+    "database": "dataEarn",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "1401",
+    "database": "dataEarn",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "ma2mEUEUnwgsVPMHCuMh",
+    "database": "railway",
+    "host": "containers-us-west-192.railway.app",
+    "port": "5584",
+    "dialect": "mysql" 
+  }
+}
